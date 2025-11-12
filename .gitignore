@@ -1,0 +1,8 @@
+# Ignore temporary editor files
+*.swp
+*.tmp
+# Ignore system files
+.DS_Store
+Thumbs.db
+# Optional: if artifacts are large and not desired in source control
+# artifacts/
